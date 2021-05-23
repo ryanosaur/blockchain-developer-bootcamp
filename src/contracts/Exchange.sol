@@ -53,10 +53,10 @@ contract Exchange {
 /**
 [X] Set the fee account
 [X] Deposit Ether
-[ ] Withdraw Ether
+[X] Withdraw Ether
 [X] Deposit Tokens
-[ ] Withdraw Tokens
-[ ] Check Balances
+[X] Withdraw Tokens
+[X] Check Balances
 [ ] Make Order
 [ ] Cancel Order
 [ ] Fill Order
